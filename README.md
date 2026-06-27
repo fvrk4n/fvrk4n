@@ -5,7 +5,7 @@ Cloud Platform Specialist. I design and operate production-grade infrastructure 
 ## Tech stack
 
 ```
-Linux · Kubernetes · Networking · Go
+Linux · Kubernetes · Networking · Python · Go
 ```
 
 ## Links
